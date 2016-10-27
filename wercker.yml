@@ -13,3 +13,4 @@ deploy:
       token: $GIT_TOKEN
       domain: asdrubalivan.com 
       basedir: public
+      branch: master
