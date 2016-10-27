@@ -4,4 +4,4 @@ build:
     - arjen/hugo-build:
         version: "0.17"
         theme: material-design 
-        # flags: --buildDrafts=true
+        flags: --buildDrafts=true
