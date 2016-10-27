@@ -9,7 +9,7 @@ deploy:
   steps:
     - install-packages:
       packages: git ssh-client
-    - asdrubalivan/gh-pages@0.2.3:
+    - lukevivier/gh-pages@0.2.4:
       token: $GIT_TOKEN
       domain: asdrubalivan.com 
       basedir: public
