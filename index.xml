@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asdrubal&#39;s Blog</title>
+    <link>http://asdrubalivan.com/index.xml</link>
+    <description>Recent content on Asdrubal&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 27 Oct 2016 10:36:39 -0400</lastBuildDate>
+    <atom:link href="http://asdrubalivan.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>post</title>
+      <link>http://asdrubalivan.com/post/</link>
+      <pubDate>Thu, 27 Oct 2016 10:36:39 -0400</pubDate>
+      
+      <guid>http://asdrubalivan.com/post/</guid>
+      <description>&lt;p&gt;This is my first post&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
