@@ -5,7 +5,7 @@ publishdir: "public"
 indexes:
   category: "categories"
 # baseurl: "http://127.0.0.1:8080"
-baseurl: "http://www.asdrubalivan.com"
+baseurl: "http://asdrubalivan.com"
 title: "Asdrubal's Blog"
 canonifyurls: true
 params:
